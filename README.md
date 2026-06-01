@@ -76,8 +76,8 @@ Panel kontrol kondisi jalan:
 | Rezi | `rezi` | Backend & Algoritma |
 | Faiz | `faiz` | Frontend UI/UX |
 | Kika | `kika` | Animasi & Visualisasi |
-| Haikal | `haikal` | Dokumentasi & Testing |
-| Wily | `wily` | Integration & Deployment |
+| Haikal | `haikal` | Backend & Testing |
+| Wily | `wily` | Frontend & Deployment |
 
 ## 📄 Lisensi
 
