@@ -79,12 +79,6 @@ Panel kontrol kondisi jalan:
 | Haikal | `haikal` | Dokumentasi & Testing |
 | Wily | `wily` | Integration & Deployment |
 
-## 📅 Jadwal Push
-
-![Jadwal Push](jadwal-push.pdf)
-
-Lihat file `jadwal-push.pdf` untuk detail jadwal push setiap anggota tim.
-
 ## 📄 Lisensi
 
-Project ini dibuat untuk tugas mata kuliah PAA DAN GRAFIKA.
+Project ini dibuat untuk tugas mata kuliah GRAFIKA KOMPUTER.
