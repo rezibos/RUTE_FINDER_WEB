@@ -34,21 +34,21 @@ Aplikasi web interaktif untuk visualisasi algoritma Dijkstra dalam mencari rute 
 
 ## 🖥️ Tampilan Aplikasi
 
-![Tampilan Peta](screenshot-map.png)
+![Tampilan Peta](asset/screenshot-map.png)
 
 Peta utama menampilkan:
 - Kota-kota yang terhubung dengan jalan
 - Kendaraan animasi saat simulasi berjalan
 - Highlight rute terpendek dengan warna hijau cerah
 
-![Tabel Dijkstra](screenshot-table.png)
+![Tabel Dijkstra](asset/screenshot-table.png)
 
 Tabel Dijkstra real-time:
 - Menampilkan status setiap node
 - Jarak sementara dari node awal
 - Node asal untuk setiap rute
 
-![Panel Kondisi Jalan](screenshot-conditions.png)
+![Panel Kondisi Jalan](asset/screenshot-conditions.png)
 
 Panel kontrol kondisi jalan:
 - Pilih tool untuk menandai kondisi jalan
